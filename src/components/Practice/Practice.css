@@ -1,0 +1,60 @@
+.practice-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.header{
+    display: flex;
+    align-items: center;
+    color: blue;
+    margin-left: 50px;
+}
+.header img{
+    width: auto;
+    height: 40px;
+    padding-right: 10px;
+}
+.select-list{
+    margin-left: 50px;
+}
+.exercise-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    margin: 50px 50px;
+}
+.cart-container{
+    background-color: white;
+}
+.profile{
+    display: flex;
+    align-items: center;
+}
+.profile img{
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+}
+.personal-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f2f4fa;
+    margin: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.break-time{
+    height: 80px;
+    background-color: #f2f4fa;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.add-break{
+    margin: 10px;
+    padding: 10px;
+}

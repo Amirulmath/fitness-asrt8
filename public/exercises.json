@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Push-Ups",
+    "benefits": "The push-up is considered a staple to effective workout routines. It’s simple yet effective for building strength, arms, chest, and shoulders.",
+    "age": "25-40",
+    "time": 30,
+    "image": "./pushups.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Squats",
+    "benefits": "It helps you get in better shape when included in daily workout plan. Strengthens lower body muscles for men.",
+    "age": "20-30",
+    "time": 20,
+    "image": "./squats.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Yoga",
+    "benefits": "Maintaining a regular different types of yoga practice can provide physical and mental health benefits.",
+    "age": "18-50",
+    "time": 60,
+    "image": "./yoga.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Walking",
+    "benefits": "Walking for 30 minutes a day or more on most days of the week is a great way to improve or maintain your overall health.",
+    "age": "10-60",
+    "time": 120,
+    "image": "./walking.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Skipping Rope",
+    "benefits": "Skipping rope helps to tone your calves, tighten your core, build stamina and improve your lung capacity.",
+    "age": "15-40",
+    "time": 40,
+    "image": "./skipping.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Dumbbell Rows",
+    "benefits": "Dumbbell rows can strengthen the back and increase muscle growth. An increase in muscle strength also causes the body to burn more calories.",
+    "age": "24-45",
+    "time": 30,
+    "image": "./dumbbell.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Lunges",
+    "benefits": "Lunges increase muscle mass to build up strength and tone your body, especially your core, butt, and legs.",
+    "age": "20-35",
+    "time": 20,
+    "image": "./lunges.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Cross Crunches",
+    "benefits": "It’s more effective and easy exercise for abs and the oblique muscles. It strengthens the core and strengthens your abdominal muscles.",
+    "age": "20-42",
+    "time": 30,
+    "image": "./crunches.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Side Plank",
+    "benefits": "Side planks help build core strength, which can help reduce lower back pain. Side planks work the buttocks, hips, and abdominal muscles.",
+    "age": "20-50",
+    "time": 40,
+    "image": "./plank.jpg"
+  }
+]
